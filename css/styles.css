@@ -92,7 +92,7 @@ span{
 
 .main img{
     width: 350px;
-    border: 7px solid aquamarine;
+    border: 8px solid aquamarine;
     height: 520px;
     z-index: 1;
 }
@@ -164,7 +164,14 @@ span{
 .card__img{
     width: 100%;
     height: 150px;
-    background-image: url(/img/2-original.png);
+    background-image: url(/img/total-countries-in-the-world.jpg);
+    background-size: cover ;
+}
+
+.card_img{
+    width: 100%;
+    height: 150px;
+    background-image: url(/img/final.jpeg);
     background-size: cover ;
 }
 
@@ -220,6 +227,7 @@ font-size: 3em;
     width: 30%;
     margin-top: 2em;
     margin: 0 auto;
+    box-shadow: 10px solid white;
    
 }
 
@@ -230,6 +238,7 @@ font-size: 3em;
     background: none;
     border: none;
     border-bottom: 1px solid #fff;
+    color: #fff;
 }
 
 .form textarea{
@@ -263,7 +272,7 @@ font-size: 3em;
     align-items: center;
     width: 100vw;
     height: 200px;
-    background-color: aqua;
+    background-color: rgb(31, 202, 165);
 }
 
 .footer-content h2{
@@ -279,5 +288,5 @@ font-size: 3em;
     justify-content: space-evenly;
     width: 300px;
     margin-top: 1em;
-    color: black;
+    color: rgb(10, 10, 10);
 }
