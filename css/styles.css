@@ -153,29 +153,30 @@ span{
     justify-content: center;
 }
 
-.card{
+.cards{
     width: 300px;
-    height: 350px;
+    height: 380px;
     background-color: #101e4b;
     color: #fff;
     margin: 1em;
+    
 }
 
-.card__img{
+.cards__img{
     width: 100%;
     height: 150px;
     background-image: url(/img/total-countries-in-the-world.jpg);
     background-size: cover ;
 }
 
-.card_img{
+.cards_img{
     width: 100%;
     height: 150px;
     background-image: url(/img/final.jpeg);
     background-size: cover ;
 }
 
-.card-img{
+.cards-img{
     width: 100%;
     height: 150px;
     background-image: url(/img/home-1.jpg);
